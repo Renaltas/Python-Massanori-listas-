@@ -21,6 +21,7 @@ public class java10Nori {
         System.out.println("Dias de vida perdidos devido ao hábito de fumar: " + diasPerdidos);
         
         ler.close();
+        // fim do cadigo(mundando commit)
 
         
 
