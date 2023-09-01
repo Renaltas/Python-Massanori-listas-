@@ -10,6 +10,8 @@ public class java7Nori {
 
         System.out.println("a temperatura em farehigh é: " + f);
 
+        ler.close();
+
 
 
 

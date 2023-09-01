@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\d_mca\\OneDrive\\Área de Trabalho\\Lista Massanori\\Lista Massanori.csproj": {}
+    "C:\\Users\\d_mca\\OneDrive\\Documentos\\GitHub\\Python-Massanori-listas-\\Lista Massanori\\Lista Massanori.csproj": {}
   },
   "projects": {
-    "C:\\Users\\d_mca\\OneDrive\\Área de Trabalho\\Lista Massanori\\Lista Massanori.csproj": {
+    "C:\\Users\\d_mca\\OneDrive\\Documentos\\GitHub\\Python-Massanori-listas-\\Lista Massanori\\Lista Massanori.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\d_mca\\OneDrive\\Área de Trabalho\\Lista Massanori\\Lista Massanori.csproj",
+        "projectUniqueName": "C:\\Users\\d_mca\\OneDrive\\Documentos\\GitHub\\Python-Massanori-listas-\\Lista Massanori\\Lista Massanori.csproj",
         "projectName": "Lista Massanori",
-        "projectPath": "C:\\Users\\d_mca\\OneDrive\\Área de Trabalho\\Lista Massanori\\Lista Massanori.csproj",
+        "projectPath": "C:\\Users\\d_mca\\OneDrive\\Documentos\\GitHub\\Python-Massanori-listas-\\Lista Massanori\\Lista Massanori.csproj",
         "packagesPath": "C:\\Users\\d_mca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\d_mca\\OneDrive\\Área de Trabalho\\Lista Massanori\\obj\\",
+        "outputPath": "C:\\Users\\d_mca\\OneDrive\\Documentos\\GitHub\\Python-Massanori-listas-\\Lista Massanori\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\d_mca\\AppData\\Roaming\\NuGet\\NuGet.Config"
