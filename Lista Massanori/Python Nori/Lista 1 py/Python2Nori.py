@@ -1,9 +1,4 @@
-def main():
-    print("insira um numero em metros")
-    mt = float(input())
-    ml = mt * 1000
+m = int(input('digite o numero de metros'))
+ml = m *1000
+print(ml)
 
-    print("o numero de mililitros é:", ml)
-
-if __name__ == "__main__":
-    main()
