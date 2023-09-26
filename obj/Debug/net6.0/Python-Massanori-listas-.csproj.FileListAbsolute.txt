@@ -1,5 +1,0 @@
-C:\Users\d_mca\OneDrive\Documentos\GitHub\Python-Massanori-listas-\obj\Debug\net6.0\Python-Massanori-listas-.csproj.AssemblyReference.cache
-C:\Users\d_mca\OneDrive\Documentos\GitHub\Python-Massanori-listas-\obj\Debug\net6.0\Python-Massanori-listas-.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\d_mca\OneDrive\Documentos\GitHub\Python-Massanori-listas-\obj\Debug\net6.0\Python-Massanori-listas-.AssemblyInfoInputs.cache
-C:\Users\d_mca\OneDrive\Documentos\GitHub\Python-Massanori-listas-\obj\Debug\net6.0\Python-Massanori-listas-.AssemblyInfo.cs
-C:\Users\d_mca\OneDrive\Documentos\GitHub\Python-Massanori-listas-\obj\Debug\net6.0\Python-Massanori-listas-.csproj.CoreCompileInputs.cache

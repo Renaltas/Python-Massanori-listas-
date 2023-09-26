@@ -24,6 +24,7 @@ public class java1Nori2{
         else{
             System.out.println("Não é triangulo");
         }
+        ler.close();
 
     }
 
