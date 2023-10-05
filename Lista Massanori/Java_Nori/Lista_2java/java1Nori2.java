@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class java1Nori2{
     public static void main (String args[]){
+        
         System.out.println("insira tres lados de um triangulo: ");
         Scanner ler = new Scanner(System.in);
         int lado1, lado2, lado3;
@@ -25,6 +26,7 @@ public class java1Nori2{
             System.out.println("Não é triangulo");
         }
         ler.close();
+
 
     }
 
