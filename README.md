@@ -1,2 +1,2 @@
 # Python/java/C#  Massanori listas 
- Listas de exercicios do japones 
+ Listas de exercicios lógica programação 
